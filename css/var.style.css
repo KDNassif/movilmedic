@@ -1,0 +1,11 @@
+:root{
+    --var-color-backgroud-banner: rgb(24,9,79);
+    --var-color-backgroud-gray: rgb(187, 186, 188);
+    --var-gradient: linear-gradient(147.99deg, #18094F 6.08%, #019B92 100%);
+    --var-letra-blanca: #fff;
+    --var-letra-title:  #1C0C59;
+}
+@font-face {
+    font-family: "movilmedic-font";
+    src: url("./../font/pt-sans/PTC55F.ttf");
+}
